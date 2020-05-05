@@ -1,0 +1,8 @@
+Corregir la finalizacion de archivo con end
+Revisar matriz de transiciones
+Anexar definiciones de elementos en reporte de la pagina https://www.freepascal.org/docs.html
+Documentar el programa
+ingresar el nombre del archivo *.pas desde la terminal
+corregir el enrutamiento del archivo
+
+

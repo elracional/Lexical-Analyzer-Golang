@@ -1,0 +1,14 @@
+ begin
+ dim contador as integer
+ contador = 0
+ do
+ if ( contador % 2 ) == 0 then
+ print ( " contador es par " )
+ else
+ print ( " contador es impar " )
+ print ( " " )
+ print ( " " )
+ print ( "  " )
+ contador = contador + 1
+ while ( contador == 10 )
+ end

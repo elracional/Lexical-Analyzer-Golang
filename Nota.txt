@@ -1,0 +1,1 @@
+Nota: Los documentos txt donde se encuentran los códigos de basic tienen 14 lineas por lo que antes de correr el programa y se editaron estos documentos, corregir el tamaño de la variable lineas así como el for que se encuentra en el main que cuenta las lineas.

@@ -1,0 +1,15 @@
+BEGIN
+INPUT " Introduce tu nombre: " ; U$
+PRINT " Hola " ; U$
+INPUT " Cuantos asteriscos quieres: " ;
+S$ = ""
+FOR I& = 1 TO 10
+S$ = S$ + " * "
+NEXT I&
+PRINT S$
+INPUT " Quieres mas asteriscos ? " ; A$
+IF LEN ( A$ ) = 0 THEN GOTO 90
+A$ = LEFT$ ( A$ , 1 )
+IF A$ = " S " OR A$ = " s " THEN GOTO 30
+PRINT " Adios " ; U$
+END
